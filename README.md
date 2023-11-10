@@ -1,6 +1,6 @@
-# Socek_Murilo
+# Murilo Socek
 
-## Olá, eu sou o Murilo
+## Olá, eu sou o Murilo, Dev Junior, atualmente aprendiz de Desenvolvimento de Sistemas na Bosch!
 
 ## Liguagens Front-End
 
